@@ -1,6 +1,6 @@
-# ByteNote
+# ByteNote - Hemant's Project
 
-A modern note-taking application built with React, TypeScript, and Supabase.
+A modern note-taking application built with React, TypeScript, and Supabase by Hemant.
 
 ## 🚀 Features
 
